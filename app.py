@@ -13,3 +13,7 @@ def home():
 
 if __name__ == "__main__":
     app.run()
+
+# have users sign in and add pokemon to their favorites to incorporate databases
+#maybe consider puting the site in 8bit
+# user favortites page
